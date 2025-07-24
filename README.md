@@ -106,7 +106,7 @@ TOTAL_CHARGES=2256.95
 
 Vanij Prasher
 📧 Email: 2004vanij.prasher@gmail.com
-🔗 GitHub
-🔗 LinkedIn
+🔗 GitHub- https://github.com/Vanij-Prasher
+🔗 LinkedIn- https://www.linkedin.com/in/vanij-prasher/
 
 ⸻
